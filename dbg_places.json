@@ -1,0 +1,109 @@
+{
+    "coffee_shops":[
+        {
+            "name":"Café One 8",
+            "reviews":302,
+            "ratings":4.3,
+            "address":"MUSHA SHAH CITY CENTRE, Tower Chowk, Bada Bazar, Lal Bagh, Darbhanga, Bihar 846004",
+            "image":"https://res.cloudinary.com/duscp44oq/image/upload/v1738399140/Caf%C3%A9_One8_dbg_e8bunm.png",
+            "google_map":"https://maps.app.goo.gl/5P8JgVV5bP7g4E6d9"
+        },
+        {
+            "name:":"The Cafe House",
+            "reviews":164,
+            "ratings":4.8,
+            "address":"Naka no 5 Yellow Building, in front of City Hospital, Darbhanga, Bihar 846004",
+            "image":"https://res.cloudinary.com/duscp44oq/image/upload/v1738399071/the_cafe_house_dbg_cgofmb.png",
+            "google_map":"https://maps.app.goo.gl/FcWkoNQUuvXohBhi8"
+        },
+        {
+            "name":"Chai Sutta Bar",
+            "reviews":447,
+            "ratings":4.0,
+            "address":"Naka number 5, near Uma Cinema, Darbhanga, Bihar 846004",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/UrwuBQeozjvYTbNb8"
+        },
+        {
+            "name":"Darbhanga Delight Cafe",
+            "reviews":47,
+            "ratings":4.6,
+            "address":"Opposite MRF Tires, Sunderpur, Darbhanga, Bihar, near TVS Service Centre and Passport Office, opposite MRF Tires and C&D Mall, Darbhanga, Bihar 846004",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/bAffrEAdJtjeEUpB9"
+        },
+        {
+            "name":"Wow!Cafe",
+            "reviews":36,
+            "ratings":4.4,
+            "address":"Bhatiyarisarai Chowk, near Sudha Milk Parlor, Bhathiarisarai, Darbhanga, Bihar 846004",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/BpSmNe5H257yM4dM9"
+        },
+        {
+            "name":"Cafe Hotspot",
+            "reviews":92,
+            "ratings":4.8,
+            "address":"GN Ganj Rd, near Rose public school Senior, Mogalpura, Laheriasarai, Darbhanga, Bihar 846001",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/Hq2kGCepE9j3BqTm7"
+        },
+        {
+            "name":"Chai Nashta Cafe (CNC)",
+            "reviews":79,
+            "ratings":4.9,
+            "address":"Kadirabad Rd, opposite WIT Road, Mansaar Colony, Darbhanga, Bihar 846004",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/qCM2grDHPQuGwCTu5"
+        },
+        {
+            "name":"7 Roaster's",
+            "reviews":29,
+            "ratings":4.7,
+            "address":"CM Science Collage Road Infront Of Krishna Residency, 007Subhash Chowk, Rd Number A, Mirzapur, Lal Bagh, Darbhanga, Bihar 846004",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/qorqbGZz6o8gyTrAA",
+        },
+        {
+            "name":"The Kulhar Chuski",
+            "reviews":794,
+            "ratings":4.1,
+            "address":"Ranipur, Darbhanga, Basdeopur, Bihar 846007",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/bynw9aFXAP71j6uH7"
+        },
+        {
+            "name":"Cafè Fusion",
+            "reviews":42,
+            "ratings":4.6,
+            "address":"Maa Khamakhya Complex, opposite Mahendra Banking Institute, Mirzapur, Darbhanga, Bihar 846004",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/HoTd3EcJ1VF7bXoB9"
+        },
+        {
+            "name":"Sukoon cafe",
+            "reviews":23,
+            "ratings":4.5,
+            "address":"Bhatiya Sarai, near city kart, near Donar, Bhathiarisarai, Darbhanga, Bihar 846004",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/hjr73RqXUeqcu4Zp6"
+        },
+        {
+            "name":"Videshi Cafe",
+            "reviews":16,
+            "ratings":4.7,
+            "address":"Main Road, Ajam Nagar, Gahumi, Darbhanga, Bihar 846004",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/mDvYhMPWJmTa69rE9"
+        }
+        {
+            "name":"MBA CHAI WALA",
+            "reviews":477,
+            "ratings":4.1,
+            "address":"7, Sundarpur, Darbhanga, Basdeopur, Bihar 846005",
+            "image":"",
+            "google_map":"https://maps.app.goo.gl/HQj9BvDdV6S2QhpZ9"
+        }
+
+    ]
+}
