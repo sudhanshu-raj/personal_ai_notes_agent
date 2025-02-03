@@ -27,3 +27,28 @@
 ```bash
 git clone https://github.com/sudhanshu-raj/personal_note_agent.git
 cd personal_note_agent
+```
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3️⃣ Set Up Environment Variables
+```bash
+GOOGLE_API_KEY=your_google_api_key
+```
+### 4️⃣ Run the Application
+```bash
+streamlit run app.py
+```
+## 📌 How It Works
+Upload Your Notes – The AI processes and stores them
+Ask a Question – Enter any topic or keyword
+Get Instant Answers – The AI fetches relevant notes for you
+
+## 📢 Future Improvements
+🌍 Cloud Storage for Persistent Notes
+🗣️ Voice Input for Queries
+📅 Calendar Integration for Task Reminders
+
+## 🤝 Contributing
+Feel free to fork this repository and submit pull requests for improvements!
