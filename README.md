@@ -3,6 +3,10 @@
 ## 🚀 Introduction  
 **Personal Note AI Agent** is an AI-powered assistant that remembers all your notes, so you don't have to. Instead of manually searching through files or trying to recall where you saved your notes, just **ask about a topic**, and the AI will retrieve the relevant notes for you instantly.  
 
+## 📸 Screenshot
+![ui_screen](https://github.com/user-attachments/assets/ef8ee11e-ba56-49f0-896d-e7ea4cb6a760)
+
+
 ## 🎯 Features  
 - 📝 **Smart Note Retrieval** – Quickly fetch notes by just asking a question  
 - 🔍 **AI-Powered Search** – Uses **LangChain** and **FAISS** to index and retrieve notes  
