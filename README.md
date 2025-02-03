@@ -25,7 +25,7 @@
 ## 🚀 Installation & Setup  
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/sudhanshu-raj/personal_note_agent.git
+git clone https://github.com/sudhanshu-raj/personal_ai_notes_agent.git
 cd personal_note_agent
 ```
 ### 2️⃣ Install Dependencies
@@ -41,14 +41,16 @@ GOOGLE_API_KEY=your_google_api_key
 streamlit run app.py
 ```
 ## 📌 How It Works
-Upload Your Notes – The AI processes and stores them
-Ask a Question – Enter any topic or keyword
-Get Instant Answers – The AI fetches relevant notes for you
+ -- **Upload Your Notes** – The AI processes and stores them
+-- **Ask a Question** – Enter any topic or keyword
+-- **Get Instant Answers** – The AI fetches relevant notes for you
 
 ## 📢 Future Improvements
-🌍 Cloud Storage for Persistent Notes
-🗣️ Voice Input for Queries
-📅 Calendar Integration for Task Reminders
+-- 🌍 Cloud Storage for Persistent Notes
+-- 🗣️ Voice Input for Queries
+-- 📅 Calendar Integration for Task Reminders
 
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests for improvements!
+
+
