@@ -1,4 +1,4 @@
-# 📒 Personal Note AI Agent  
+# 📒 Personal Notes AI Agent  
 
 ## 🚀 Introduction  
 **Personal Note AI Agent** is an AI-powered assistant that remembers all your notes, so you don't have to. Instead of manually searching through files or trying to recall where you saved your notes, just **ask about a topic**, and the AI will retrieve the relevant notes for you instantly.  
